@@ -1,3 +1,4 @@
+# TODO: inline comments and doc-strings to be updated
 from data import questions
 from quiz_brain import QuizBrain
 from question_model import Question
